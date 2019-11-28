@@ -49,4 +49,4 @@ https://blog.csdn.net/yushupan/article/details/85061143
 
 
 
-<img src="https://gatesma.cn/myfile/DiagnoseSCU.jpg" width="300"/>
+<img src="data/DiagnoseSCU.jpg" width="300"/>

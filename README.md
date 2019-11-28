@@ -46,4 +46,7 @@ https://blog.csdn.net/yushupan/article/details/85061143
   
  
 小程序初级版本示意：
-<img src="https://gatesma.cn/myfile/DiagnoseSCU.jpg" height="500px"/>
+
+
+
+![](https://gatesma.cn/myfile/DiagnoseSCU.jpg)

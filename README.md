@@ -7,6 +7,8 @@
 配置项目跑在服务器上
 
 （项目如果想要跑在服务器上，特别是供微信小程序使用的话，非常麻烦，我配了整整4天，每晚2点睡，最后还是以一种投机的方法跑成功了）如果配置项目跑在服务器上，这里列出我在配置的时候查找的几篇文章，可能会有帮助，但是跟着博客做也可能会出现配不好的情况
+
+
 https://blog.csdn.net/k295330167/article/details/80616519
 https://www.fujieace.com/jingyan/vc11-vc14-vc15.html
 https://blog.csdn.net/dyingstraw/article/details/82698639#2.%E5%AD%90%E5%9F%9F%E5%90%8Dssl%E8%AF%81%E4%B9%A6%E7%94%B3%E8%AF%B7

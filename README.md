@@ -43,3 +43,7 @@ https://blog.csdn.net/yushupan/article/details/85061143
 
 - testUtil.py
   测试后台算法能不能使用的类，需要传入2张图片，2个视频，放在同一目录下
+  
+ 
+小程序初级版本示意：
+<img src="https://gatesma.cn/myfile/DiagnoseSCU.jpg" height="500px"/>
